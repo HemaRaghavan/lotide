@@ -1,0 +1,26 @@
+{
+  "name": "@hemar/lotide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemaRaghavan/lotide.git"
+  },
+  "author": "Hema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemaRaghavan/lotide/issues"
+  },
+  "homepage": "https://github.com/HemaRaghavan/lotide#readme",
+  "description": "Lotide",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
